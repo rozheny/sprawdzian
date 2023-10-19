@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<html>
+<head>
+ <meta charset="utf-8">
+ <title> folmularz </title>
+</head>
+<body>
+<p> Tutaj będzie folmularz </p>
+ <A HREF="index.html"> wroc</A>
+ </body>
+</html>
