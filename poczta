@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+      <html>
+        <head>
+           <meta charset="utf-8">
+           <html lang="pl-PL">
+              <title>Poczta</title>
+       </head>
+<body>
+Poczta E.Botsvin<br>
+<A HREF="index.html"> Strona menu </A>
+<A href ="mailto:Zhenyapets@gmail.com"><img src="strzalka-poczta.gif" border=0 width=300 height=200>link poczty</A>
+
+</body>
+</html>
